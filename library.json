@@ -1,28 +1,24 @@
 {
-	"name": "esp-library-template",
+	"name": "esp-library-two",
 	"keywords": "template, library, esp32",
 	"description": "Template Library for ESP32",
-	"homepage": "https://github.com/reds6188/esp-library-template.git",
+	"homepage": "https://github.com/reds6188/esp-lib_example-2.git",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/reds6188/esp-library-template.git"
+		"url": "https://github.com/reds6188/esp-lib_example-2.git"
 	},
 	"authors": {
 		"name": "Daniele Rossi",
 		"email": "reds6188@gmail.com",
 		"maintainer": true
 	},
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"frameworks": "arduino",
 	"platforms": "espressif32",
 	"dependencies": [
 		{
-			"name": "esp-console",
-			"version": "https://github.com/reds6188/esp-console.git@1.0.0"
-		},
-		{
-			"name": "ESPRandom",
-			"version": "mulmer89/ESPRandom@^1.5.0"
+			"name": "esp-library-one",
+			"version": "https://github.com/reds6188/esp-lib_example-1.git@1.0.0"
 		}
 	]
 }
