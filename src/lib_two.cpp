@@ -8,3 +8,7 @@ void funcOneFromTwo(void) {
     Serial.print("From library two I am calling: ");
     funcOne();
 }
+
+void funcTwoAdvance(void) {
+    Serial.println("Library TWO");
+}
