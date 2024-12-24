@@ -18,7 +18,7 @@
 	"dependencies": [
 		{
 			"name": "esp-library-one",
-			"version": "https://github.com/reds6188/esp-lib_example-1.git@1.0.0"
+			"version": "https://github.com/reds6188/esp-lib_example-1.git#1.0.0"
 		}
 	]
 }
